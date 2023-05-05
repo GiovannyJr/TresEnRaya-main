@@ -69,7 +69,7 @@ body {
 }
 
 .gameCell:not(.marked):hover {
-    box-shadow: 0 0 42px #555;
+    box-shadow: 0 0 42px #fffbfb;
 }
 
 .gameBoard td.gameCell.notActive:hover, .gameBoard td.gameCell.notActive:active {
